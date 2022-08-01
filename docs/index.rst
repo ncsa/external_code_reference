@@ -18,6 +18,7 @@ This page tree contains reference pages for applications that were developed ext
 
 Some of these pages are current, but many of them arent, and are placed here as historical reference.  Each code page should have information at the top with the last time it was modified and if it's up to date on any current NCSA sytems.  
 
+`NAMD<./NAMD/>`_
 
 Indices and tables
 ==================
